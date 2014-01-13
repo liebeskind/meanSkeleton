@@ -9,6 +9,11 @@
     "connect-mongo": "~0.4.0",
     "passport": "latest",
     "passport-local": "latest",
+    "passport-facebook": "latest",
+    "passport-google-oauth": "latest",
+    "passport-instagram": "latest",
+    "passport-twitter": "latest",
+    "passport-github": "latest",
     "bcrypt": "~0.7.7",
     "ejs": "~0.8.4"
   },
